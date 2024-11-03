@@ -1,6 +1,7 @@
 # Mobile Apps Project Food Delivery Application Hanying
-This project was performed by myself for graduating a course from the 4th Semester, Data Visualization. I created a Tableau story on "Analyzing the Impact of Motor Vehicle Ownership on Carbon Emissions in ASEAN" to answer 3 stated problems. The story includes 3 dashboards with different visuals to represent the current situation of motor vehicle ownership in ASEAN and the carbon emission that has been poluted by years.
-#
+<H6 align="justify">
+This project was developed by myself, along with my team, as part of the 4th-semester course on Mobile Apps. We created a mobile application called Hanying, a food ordering platform designed to enhance the user experience in browsing, selecting, and ordering food. The app addresses several key features through various interfaces. It includes a Splash Screen, Login and Registration Pages, a Main Menu to explore food categories and popular items, and a Menu Page featuring various types of food. Users can access detailed information on selected items through the Detail Menu, locate offline branches via the Map Location page, and make secure payments on the Payment Page. The Profile Page organizes user details for easy navigation.
+</H6>
 
 <H3 align="center">
   Status<br><br>
@@ -15,20 +16,16 @@ This project was performed by myself for graduating a course from the 4th Semest
 <H3 align="center">
   Tools Used<br><br>
   <a href=#>
-    <img src="https://img.shields.io/badge/Made%20with-Tableau-e97627?style=for-the-badge&logo=tableau" alt="Tableau">
+    <img src="https://img.shields.io/badge/Made%20with-Android Studio-3DDC84?style=for-the-badge&logo=Android Studio" alt="Android Studio">
   </a>
 </H3>
 
-#
-### DASHBOARD 1
-#### How is the condition of carbon gas emissions and the growth of private vehicle ownership in ASEAN every year?
-![Dashboard 1](https://github.com/Adhelio/Motor-Vehicle-Ownership-Impact-on-Carbon-Emissions-in-ASEAN-with-Tableau/blob/main/Screenshots/Dashboard%201.png)
-#
-### DASHBOARD 2
-#### Is there any correlations between private vehicle ownership and carbon emissions in ASEAN?
-![Dashboard 2](https://github.com/Adhelio/Motor-Vehicle-Ownership-Impact-on-Carbon-Emissions-in-ASEAN-with-Tableau/blob/main/Screenshots/Dashboard%202.png)
-#
-### DASHBOARD 3
-#### How is Indonesia's situation in terms of private vehicle ownership and the carbon gas emitted?
-![Dashboard 3](https://github.com/Adhelio/Motor-Vehicle-Ownership-Impact-on-Carbon-Emissions-in-ASEAN-with-Tableau/blob/main/Screenshots/Dashboard%203.png)
-#
+---
+## Application
+
+| Executive Summary | Hospital Insights |
+|-------------|-------------|
+| ![executive_summary](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/14917b4e-fc60-4bfd-840c-66ad4057e914) | ![hospital_insights](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/da6fc0a8-00f1-411e-8c8e-53f8261a38fd) |
+| This section provides a concise yet comprehensive summary of key insights and findings derived from the analysis of the U.S. healthcare industry for the years 2019-2020. | Explore comprehensive analyses of hospital performance, including metrics on patient admissions, discharge rates, and overall hospital efficiency. Gain strategic perspectives for healthcare administrators.|
+
+---
