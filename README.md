@@ -21,11 +21,28 @@ This project was developed by myself, along with my team, as part of the 4th-sem
 </H3>
 
 ---
+
 ## Application
 
-| Executive Summary | Hospital Insights |
+| Login Page | Main Menu |
 |-------------|-------------|
-| ![executive_summary](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/14917b4e-fc60-4bfd-840c-66ad4057e914) | ![hospital_insights](https://github.com/virajbhutada/US-Healthcare-Analytics-PowerBI-Insights/assets/143819712/da6fc0a8-00f1-411e-8c8e-53f8261a38fd) |
-| This section provides a concise yet comprehensive summary of key insights and findings derived from the analysis of the U.S. healthcare industry for the years 2019-2020. | Explore comprehensive analyses of hospital performance, including metrics on patient admissions, discharge rates, and overall hospital efficiency. Gain strategic perspectives for healthcare administrators.|
+| <div align="center"> ![Login Page](https://github.com/Nomimomu/Mobile-apps-Hanying/blob/master/Screenshot/1.%20Login%20Screen.png) </div> | <div align="center"> ![Main Menu](https://github.com/Nomimomu/Mobile-apps-Hanying/blob/master/Screenshot/2.%20Main%20Menu.png) </div> 
+|<div align="justify"> On the Hanying app's Login page, users are presented with two input fields for their username and password. Additionally, there is an option to create an account for users who do not have one yet. </div>|<div align="justify"> On the Main Menu, users can search for food, select categories, and choose popular dimsum items. The navigation bar provides access to the home menu, complete food menu, cart/order list, offline restaurant locations, and user profile details. </div> |
 
 ---
+| Menu Selection | Menu Detail |
+|-------------|-------------|
+| <div align="center"> ![Login Page](https://github.com/Nomimomu/Mobile-apps-Hanying/blob/master/Screenshot/3.%20Menu%20Selection.png) </div> | <div align="center"> ![Main Menu](https://github.com/Nomimomu/Mobile-apps-Hanying/blob/master/Screenshot/4.%20Menu%20Detail.png) </div> 
+|<div align="justify"> The Menu Page allows users to view all available food and drink options and choose from various categories, such as Steamed, Fried, Soup, Drinks, and more. </div>|<div align="justify"> The Detail Menu page activates when a user selects a product from the main page. It displays the product name, price, photo, and details from the popular section. Users can also adjust the quantity of dim sum they wish to order. </div> |
+
+---
+| Payment |
+|-------------|
+| <div align="center"> ![Login Page](https://github.com/Nomimomu/Mobile-apps-Hanying/blob/master/Screenshot/6.%20Payment.png) </div> 
+|<div align="justify"> The Payment page of the Hanying app allows users to proceed with payment after selecting their desired food. Users can click the cart button to initiate the payment process. Once they confirm their order, they can press the "Place Order" button and choose from several payment methods, such as PayPal, GoPay, OVO, or Seabank. Upon successful payment, a Toast message will pop up displaying “Payment Successful! Total Amount: $...”. </div>
+
+---
+| Branch Map Location | Profile |
+|-------------|-------------|
+| <div align="center"> ![Login Page](https://github.com/Nomimomu/Mobile-apps-Hanying/blob/master/Screenshot/5.%20Branch%20Map%20Location.png) </div> | <div align="center"> ![Main Menu](https://github.com/Nomimomu/Mobile-apps-Hanying/blob/master/Screenshot/7.%20Profile.png) </div> 
+|<div align="justify"> In the Map Location feature, users can view the offline restaurant branches of the Hanying app. When users press the 'go' button for their desired location, the map adjusts to focus on that restaurant. There are also options to change the map view according to user preferences, including Normal, Terrain, Hybrid, and Satellite, providing flexibility in how they view the map. </div>|<div align="justify"> The Profile section includes the user's profile picture, full name, email address, phone number, address, and postal code. </div> |
